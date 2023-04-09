@@ -219,58 +219,58 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ### ICML 2022
 #### Time Series Forecasting
-* FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/DAMO-DI-ML/ICML2022-FEDformer)
-* TACTiS: Transformer-Attentional Copulas for Time Series [\[paper\]](https://arxiv.org/abs/2202.03528) [\[official code\]](https://github.com/ServiceNow/tactis)
-* Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes [\[paper\]](https://arxiv.org/abs/2207.06544) [\[official code\]](https://github.com/g-benton/volt)
-* Domain Adaptation for Time Series Forecasting via Attention Sharing [\[paper\]](https://arxiv.org/abs/2102.06828) 
-* DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting [\[paper\]](https://proceedings.mlr.press/v162/lan22a.html) [\[official code\]](https://github.com/SYLan2019/DSTAGNN)
+* FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting [\[paper\]](https://arxiv.org/abs/2201.12740) [\[official code\]](https://github.com/DAMO-DI-ML/ICML2022-FEDformer) [\[slides\]](https://icml.cc/media/icml-2022/Slides/17986.pdf)
+* TACTiS: Transformer-Attentional Copulas for Time Series [\[paper\]](https://arxiv.org/abs/2202.03528) [\[official code\]](https://github.com/ServiceNow/tactis) [\[slides\]](https://icml.cc/media/icml-2022/Slides/16594.pdf)
+* Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes [\[paper\]](https://arxiv.org/abs/2207.06544) [\[official code\]](https://github.com/g-benton/volt) [\[slides\]](https://icml.cc/media/icml-2022/Slides/16874.pdf)
+* Domain Adaptation for Time Series Forecasting via Attention Sharing [\[paper\]](https://arxiv.org/abs/2102.06828) [\[slides\]](https://icml.cc/media/icml-2022/Slides/16938.pdf)
+* DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting [\[paper\]](https://proceedings.mlr.press/v162/lan22a.html) [\[official code\]](https://github.com/SYLan2019/DSTAGNN) [\[slides\]](https://icml.cc/media/icml-2022/Slides/16008.pdf)
 
 #### Time Series Anomaly Detection
 * Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection [\[paper\]](https://proceedings.mlr.press/v162/chen22x.html) [\[oral\]](https://icml.cc/virtual/2022/spotlight/18110)
 
 #### Other Time Series Analysis
-* Adaptive Conformal Predictions for Time Series [\[paper\]](https://arxiv.org/abs/2202.07282) [\[official code\]](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)
-* Modeling Irregular Time Series with Continuous Recurrent Units [\[paper\]](https://arxiv.org/abs/2111.11344) [\[official code\]](https://github.com/boschresearch/continuous-recurrent-units)
-* Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion [\[paper\]](https://arxiv.org/abs/2202.04770) 
-* Reconstructing nonlinear dynamical systems from multi-modal time series [\[paper\]](https://arxiv.org/abs/2111.02922) [\[official code\]](https://github.com/durstewitzlab/mmplrnn)
-* Utilizing Expert Features for Contrastive Learning of Time-Series Representations [\[paper\]](https://arxiv.org/abs/2206.11517) [\[official code\]](https://github.com/boschresearch/expclr)
-* Learning of Cluster-based Feature Importance for Electronic Health Record Time-series [\[paper\]](https://proceedings.mlr.press/v162/aguiar22a.html)
+* Adaptive Conformal Predictions for Time Series [\[paper\]](https://arxiv.org/abs/2202.07282) [\[official code\]](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries) [\[slides\]](https://icml.cc/media/icml-2022/Slides/17818.pdf)
+* Modeling Irregular Time Series with Continuous Recurrent Units [\[paper\]](https://arxiv.org/abs/2111.11344) [\[official code\]](https://github.com/boschresearch/continuous-recurrent-units) [\[slides\]](https://icml.cc/media/icml-2022/Slides/16343.pdf)
+* Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion [\[paper\]](https://arxiv.org/abs/2202.04770) [\[slides\]](https://icml.cc/media/icml-2022/Slides/16051.pdf) 
+* Reconstructing nonlinear dynamical systems from multi-modal time series [\[paper\]](https://arxiv.org/abs/2111.02922) [\[official code\]](https://github.com/durstewitzlab/mmplrnn) [\[oral\]](https://icml.cc/virtual/2022/spotlight/17182)
+* Utilizing Expert Features for Contrastive Learning of Time-Series Representations [\[paper\]](https://arxiv.org/abs/2206.11517) [\[official code\]](https://github.com/boschresearch/expclr) [\[slides\]](https://icml.cc/media/icml-2022/Slides/18038.pdf)
+* Learning of Cluster-based Feature Importance for Electronic Health Record Time-series [\[paper\]](https://proceedings.mlr.press/v162/aguiar22a.html) [\[slides\]](https://icml.cc/media/icml-2022/Slides/17712.pdf)
 
 ### ICLR 2022
 #### Time Series Forecasting
-* Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting [\[paper\]](https://openreview.net/forum?id=0EXmFzUn5I) [\[official code\]](https://github.com/alipay/Pyraformer)
+* Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting [\[paper\]](https://openreview.net/forum?id=0EXmFzUn5I) [\[official code\]](https://github.com/alipay/Pyraformer) [\[oral\]](https://iclr.cc/virtual/2022/oral/6828)
 * DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=AJAR-JgNw__) [\[official code\]](https://github.com/weifantt/depts)
-* CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=PilZY3omXV2) [\[official code\]](https://github.com/salesforce/CoST)
-* Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift [\[paper\]](https://openreview.net/forum?id=cGDAkQo1C0p) [\[official code\]](https://github.com/ts-kim/RevIN)
-* TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting [\[paper\]](https://openreview.net/forum?id=wv6g8fWLX2q) [\[official code\]](https://www.dropbox.com/sh/n0ajd5l0tdeyb80/AABGn-ejfV1YtRwjf_L0AOsNa?dl=0)
-* Back2Future: Leveraging Backfill Dynamics for Improving Real-time Predictions in Future [\[paper\]](https://openreview.net/forum?id=L01Nn_VJ9i) [\[official code\]](https://github.com/AdityaLab/Back2Future)
-* On the benefits of maximum likelihood estimation for Regression and Forecasting [\[paper\]](https://openreview.net/forum?id=zrW-LVXj2k1)
-* Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting [\[paper\]](https://openreview.net/forum?id=wwDg3bbYBIq) [\[official code\]](https://github.com/hyunwookl/pm-memnet)
+* CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting [\[paper\]](https://openreview.net/forum?id=PilZY3omXV2) [\[official code\]](https://github.com/salesforce/CoST) [\[oral\]](https://iclr.cc/virtual/2022/poster/6829)
+* Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift [\[paper\]](https://openreview.net/forum?id=cGDAkQo1C0p) [\[official code\]](https://github.com/ts-kim/RevIN) [\[oral\]](https://iclr.cc/virtual/2022/poster/6034)
+* TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting [\[paper\]](https://openreview.net/forum?id=wv6g8fWLX2q) [\[official code\]](https://www.dropbox.com/sh/n0ajd5l0tdeyb80/AABGn-ejfV1YtRwjf_L0AOsNa?dl=0) [\[oral\]](https://iclr.cc/virtual/2022/poster/7162)
+* Back2Future: Leveraging Backfill Dynamics for Improving Real-time Predictions in Future [\[paper\]](https://openreview.net/forum?id=L01Nn_VJ9i) [\[official code\]](https://github.com/AdityaLab/Back2Future) [\[oral\]](https://iclr.cc/virtual/2022/poster/6343)
+* On the benefits of maximum likelihood estimation for Regression and Forecasting [\[paper\]](https://openreview.net/forum?id=zrW-LVXj2k1) [\[slides\]](https://iclr.cc/media/iclr-2022/Slides/7096.pdf)
+* Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting [\[paper\]](https://openreview.net/forum?id=wwDg3bbYBIq) [\[official code\]](https://github.com/hyunwookl/pm-memnet) [\[slides\]](https://iclr.cc/media/iclr-2022/Slides/6957.pdf)
 
 
 #### Time Series Anomaly Detection
-* Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy [\[paper\]](https://openreview.net/forum?id=LzQQ89U1qm_) [\[official code\]](https://github.com/thuml/Anomaly-Transformer)
-* Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series [\[paper\]](https://openreview.net/forum?id=45L_dgP48Vd) [\[official code\]](https://github.com/enyandai/ganf)
+* Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy [\[paper\]](https://openreview.net/forum?id=LzQQ89U1qm_) [\[official code\]](https://github.com/thuml/Anomaly-Transformer) [\[oral\]](https://iclr.cc/virtual/2022/poster/7023)
+* Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series [\[paper\]](https://openreview.net/forum?id=45L_dgP48Vd) [\[official code\]](https://github.com/enyandai/ganf) [\[oral\]](https://iclr.cc/virtual/2022/poster/6770)
 
 #### Time Series Classification
-* T-WaveNet: A Tree-Structured Wavelet Neural Network for Time Series Signal Analysis [\[paper\]](https://openreview.net/forum?id=U4uFaLyg7PV)
-* Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification [\[paper\]](https://openreview.net/forum?id=PDYs7Z2XFGv)
+* T-WaveNet: A Tree-Structured Wavelet Neural Network for Time Series Signal Analysis [\[paper\]](https://openreview.net/forum?id=U4uFaLyg7PV) [\[oral\]](https://iclr.cc/virtual/2022/poster/6803)
+* Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification [\[paper\]](https://openreview.net/forum?id=PDYs7Z2XFGv) [\[oral\]](https://iclr.cc/virtual/2022/poster/7148)
 
 #### Other Time Series Analysis
-* Graph-Guided Network for Irregularly Sampled Multivariate Time Series [\[paper\]](https://openreview.net/forum?id=Kwm8I7dU-l5)
-* Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series [\[paper\]](https://openreview.net/forum?id=Az7opqbQE-3)
-* Transformer Embeddings of Irregularly Spaced Events and Their Participants [\[paper\]](https://openreview.net/forum?id=Rty5g9imm7H)
-* Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks [\[paper\]](https://openreview.net/forum?id=kOu3-S3wJ7)
-* PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series [\[paper\]](https://openreview.net/forum?id=Ix_mh42xq5w)
-* Huber Additive Models for Non-stationary Time Series Analysis [\[paper\]](https://openreview.net/forum?id=9kpuB2bgnim)
-* LORD: Lower-Dimensional Embedding of Log-Signature in Neural Rough Differential Equations [\[paper\]](https://openreview.net/forum?id=fCG75wd39ze)
-* Imbedding Deep Neural Networks [\[paper\]](https://openreview.net/forum?id=yKIAXjkJc2F)
-* Coherence-based Label Propagation over Time Series for Accelerated Active Learning [\[paper\]](https://openreview.net/forum?id=gjNcH0hj0LM)
-* Long Expressive Memory for Sequence Modeling [\[paper\]](https://openreview.net/forum?id=vwj6aUeocyf)
-* Autoregressive Quantile Flows for Predictive Uncertainty Estimation [\[paper\]](https://openreview.net/forum?id=z1-I6rOKv1S)
-* Learning the Dynamics of Physical Systems from Sparse Observations with Finite Element Networks [\[paper\]](https://openreview.net/forum?id=HFmAukZ-k-2)
-* Temporal Alignment Prediction for Supervised Representation Learning and Few-Shot Sequence Classification [\[paper\]](https://openreview.net/forum?id=p3DKPQ7uaAi)
-* Explaining Point Processes by Learning Interpretable Temporal Logic Rules [\[paper\]](https://openreview.net/forum?id=P07dq7iSAGr)
+* Graph-Guided Network for Irregularly Sampled Multivariate Time Series [\[paper\]](https://openreview.net/forum?id=Kwm8I7dU-l5) [\[oral\]](https://iclr.cc/virtual/2022/poster/6409)
+* Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series [\[paper\]](https://openreview.net/forum?id=Az7opqbQE-3) [\[slides\]](https://iclr.cc/media/iclr-2022/Slides/6271.pdf)
+* Transformer Embeddings of Irregularly Spaced Events and Their Participants [\[paper\]](https://openreview.net/forum?id=Rty5g9imm7H) [\[oral\]](https://iclr.cc/virtual/2022/poster/6600)
+* Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks [\[paper\]](https://openreview.net/forum?id=kOu3-S3wJ7) [\[slides\]](https://iclr.cc/media/iclr-2022/Slides/5891.pdf)
+* PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series [\[paper\]](https://openreview.net/forum?id=Ix_mh42xq5w) [\[oral\]](https://iclr.cc/virtual/2022/poster/6757)
+* Huber Additive Models for Non-stationary Time Series Analysis [\[paper\]](https://openreview.net/forum?id=9kpuB2bgnim) [\[oral\]](https://iclr.cc/virtual/2022/poster/6601)
+* LORD: Lower-Dimensional Embedding of Log-Signature in Neural Rough Differential Equations [\[paper\]](https://openreview.net/forum?id=fCG75wd39ze) [\[oral\]](https://iclr.cc/virtual/2022/poster/6473)
+* Imbedding Deep Neural Networks [\[paper\]](https://openreview.net/forum?id=yKIAXjkJc2F) [\[oral\]](https://iclr.cc/virtual/2022/poster/6530)
+* Coherence-based Label Propagation over Time Series for Accelerated Active Learning [\[paper\]](https://openreview.net/forum?id=gjNcH0hj0LM) [\[oral\]](https://iclr.cc/virtual/2022/poster/6012)
+* Long Expressive Memory for Sequence Modeling [\[paper\]](https://openreview.net/forum?id=vwj6aUeocyf) [\[oral\]](https://iclr.cc/virtual/2022/poster/6411)
+* Autoregressive Quantile Flows for Predictive Uncertainty Estimation [\[paper\]](https://openreview.net/forum?id=z1-I6rOKv1S) [\[oral\]](https://iclr.cc/virtual/2022/poster/6671)
+* Learning the Dynamics of Physical Systems from Sparse Observations with Finite Element Networks [\[paper\]](https://openreview.net/forum?id=HFmAukZ-k-2) [\[oral\]](https://iclr.cc/virtual/2022/poster/6609)
+* Temporal Alignment Prediction for Supervised Representation Learning and Few-Shot Sequence Classification [\[paper\]](https://openreview.net/forum?id=p3DKPQ7uaAi) [\[oral\]](https://iclr.cc/virtual/2022/poster/6429)
+* Explaining Point Processes by Learning Interpretable Temporal Logic Rules [\[paper\]](https://openreview.net/forum?id=P07dq7iSAGr) [\[oral\]](https://iclr.cc/virtual/2022/poster/6151)
 
 
 ### KDD 2022
@@ -402,71 +402,71 @@ Electricity Smart Meter Data [\[paper and oral\]](https://aaai-2022.virtualchair
 
 ### NeurIPS 2021
 #### Time Series Forecasting
-* Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting [\[paper\]](https://arxiv.org/abs/2106.13008) [\[official code\]](https://github.com/thuml/autoformer)
-* MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data [\[paper\]](https://arxiv.org/abs/2110.14354) 
-* Conformal Time-Series Forecasting [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/312f1ba2a72318edaaa995a67835fad5-Abstract.html) [\[official code\]](https://github.com/kamilest/conformal-rnn)
-* Probabilistic Forecasting: A Level-Set Approach [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/32b127307a606effdcc8e51f60a45922-Abstract.html) 
-* Topological Attention for Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2107.09031) 
-* When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting [\[paper\]](https://arxiv.org/abs/2106.03904) [\[official code\]](https://github.com/AdityaLab/EpiFNP)
-* Monash Time Series Forecasting Archive [\[paper\]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/eddea82ad2755b24c4e168c5fc2ebd40-Abstract-round2.html) [\[official code\]](https://forecastingdata.org/)  
+* Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting [\[paper\]](https://arxiv.org/abs/2106.13008) [\[official code\]](https://github.com/thuml/autoformer) [\[oral\]](https://nips.cc/virtual/2021/poster/28217)
+* MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data [\[paper\]](https://arxiv.org/abs/2110.14354) [\[oral\]](https://nips.cc/virtual/2021/poster/27938)
+* Conformal Time-Series Forecasting [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/312f1ba2a72318edaaa995a67835fad5-Abstract.html) [\[official code\]](https://github.com/kamilest/conformal-rnn) [\[oral\]](https://nips.cc/virtual/2021/poster/28166)
+* Probabilistic Forecasting: A Level-Set Approach [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/32b127307a606effdcc8e51f60a45922-Abstract.html)  [\[oral\]](https://nips.cc/virtual/2021/poster/26481)
+* Topological Attention for Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2107.09031) [\[slides\]](https://nips.cc/media/neurips-2021/Slides/26763.pdf)
+* When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting [\[paper\]](https://arxiv.org/abs/2106.03904) [\[official code\]](https://github.com/AdityaLab/EpiFNP) [\[slides\]](https://nips.cc/media/neurips-2021/Slides/26418.pdf)
+* Monash Time Series Forecasting Archive [\[paper\]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/eddea82ad2755b24c4e168c5fc2ebd40-Abstract-round2.html) [\[official code\]](https://forecastingdata.org/)
 
 #### Time Series Anomaly Detection
-* Revisiting Time Series Outlier Detection: Definitions and Benchmarks [\[paper\]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/ec5decca5ed3d6b8079e2e7e7bacc9f2-Abstract-round1.html) [\[official code\]](https://github.com/datamllab/tods/tree/benchmark)   
-* Online false discovery rate control for anomaly detection in time series [\[paper\]](https://arxiv.org/abs/2112.03196)  
-* Detecting Anomalous Event Sequences with Temporal Point Processes [\[paper\]](https://arxiv.org/abs/2106.04465) 
+* Revisiting Time Series Outlier Detection: Definitions and Benchmarks [\[paper\]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/ec5decca5ed3d6b8079e2e7e7bacc9f2-Abstract-round1.html) [\[official code\]](https://github.com/datamllab/tods/tree/benchmark)
+* Online false discovery rate control for anomaly detection in time series [\[paper\]](https://arxiv.org/abs/2112.03196) [\[oral\]](https://nips.cc/virtual/2021/poster/26656)
+* Detecting Anomalous Event Sequences with Temporal Point Processes [\[paper\]](https://arxiv.org/abs/2106.04465) [\[slides\]](https://nips.cc/media/neurips-2021/Slides/27787.pdf)
 
 #### Other Time Series Analysis
-* Probabilistic Transformer For Time Series Analysis [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/c68bd9055776bf38d8fc43c0ed283678-Abstract.html) 
-* Shifted Chunk Transformer for Spatio-Temporal Representational Learning [\[paper\]](https://arxiv.org/abs/2108.11575) 
-* Deep Explicit Duration Switching Models for Time Series [\[paper\]](https://openreview.net/forum?id=LaM6G4yrMy0) [\[official code\]](https://github.com/abdulfatir/REDSDS)
-* Time-series Generation by Contrastive Imitation [\[paper\]](https://openreview.net/forum?id=RHZs3GqLBwg)  
-* CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation [\[paper\]](https://arxiv.org/abs/2107.03502) [\[official code\]](https://github.com/ermongroup/csdi)
-* Adjusting for Autocorrelated Errors in Neural Networks for Time Series [\[paper\]](https://arxiv.org/abs/2101.12578) [\[official code\]](https://github.com/Daikon-Sun/AdjustAutocorrelation)
-* SSMF: Shifting Seasonal Matrix Factorization [\[paper\]](https://arxiv.org/abs/2110.12763) [\[official code\]](https://github.com/kokikwbt/ssmf)
-* Coresets for Time Series Clustering [\[paper\]](https://arxiv.org/abs/2110.15263)  
-* Neural Flows: Efficient Alternative to Neural ODEs [\[paper\]](https://arxiv.org/abs/2110.13040) [\[official code\]](https://github.com/mbilos/neural-flows-experiments)
-* Spatio-Temporal Variational Gaussian Processes [\[paper\]](https://arxiv.org/pdf/2111.01732.pdf) [\[official code\]](https://github.com/aaltoml/spatio-temporal-gps)
-* Drop-DTW: Aligning Common Signal Between Sequences While Dropping Outliers [\[paper\]](https://openreview.net/forum?id=A_Aeb-XLozL) [\[official code\]](https://github.com/SamsungLabs/Drop-DTW) 
+* Probabilistic Transformer For Time Series Analysis [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/c68bd9055776bf38d8fc43c0ed283678-Abstract.html) [\[oral\]](https://nips.cc/virtual/2021/poster/26279)
+* Shifted Chunk Transformer for Spatio-Temporal Representational Learning [\[paper\]](https://arxiv.org/abs/2108.11575) [\[oral\]](https://nips.cc/virtual/2021/poster/28779)
+* Deep Explicit Duration Switching Models for Time Series [\[paper\]](https://openreview.net/forum?id=LaM6G4yrMy0) [\[official code\]](https://github.com/abdulfatir/REDSDS) [\[oral\]](https://nips.cc/virtual/2021/poster/27542)
+* Time-series Generation by Contrastive Imitation [\[paper\]](https://openreview.net/forum?id=RHZs3GqLBwg) [\[oral\]](https://nips.cc/virtual/2021/poster/26999)
+* CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation [\[paper\]](https://arxiv.org/abs/2107.03502) [\[official code\]](https://github.com/ermongroup/csdi) [\[slides\]](https://nips.cc/media/neurips-2021/Slides/26846.pdf)
+* Adjusting for Autocorrelated Errors in Neural Networks for Time Series [\[paper\]](https://arxiv.org/abs/2101.12578) [\[official code\]](https://github.com/Daikon-Sun/AdjustAutocorrelation) [\[oral\]](https://nips.cc/virtual/2021/poster/26808)
+* SSMF: Shifting Seasonal Matrix Factorization [\[paper\]](https://arxiv.org/abs/2110.12763) [\[official code\]](https://github.com/kokikwbt/ssmf) [\[oral\]](https://nips.cc/virtual/2021/poster/27627)
+* Coresets for Time Series Clustering [\[paper\]](https://arxiv.org/abs/2110.15263) [\[oral\]](https://nips.cc/virtual/2021/poster/28398)
+* Neural Flows: Efficient Alternative to Neural ODEs [\[paper\]](https://arxiv.org/abs/2110.13040) [\[official code\]](https://github.com/mbilos/neural-flows-experiments) [\[oral\]](https://nips.cc/virtual/2021/poster/27302)
+* Spatio-Temporal Variational Gaussian Processes [\[paper\]](https://arxiv.org/pdf/2111.01732.pdf) [\[official code\]](https://github.com/aaltoml/spatio-temporal-gps) [\[oral\]](https://nips.cc/virtual/2021/poster/27694)
+* Drop-DTW: Aligning Common Signal Between Sequences While Dropping Outliers [\[paper\]](https://openreview.net/forum?id=A_Aeb-XLozL) [\[official code\]](https://github.com/SamsungLabs/Drop-DTW) [\[oral\]](https://nips.cc/virtual/2021/poster/26271)
 
 
 
 ### ICML 2021
 #### Time Series Forecasting
-* Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2101.12072) [\[official code\]](https://github.com/zalandoresearch/pytorch-ts)
-* End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series [\[paper\]](https://proceedings.mlr.press/v139/rangapuram21a.html) [\[official code\]](https://github.com/rshyamsundar/gluonts-hierarchical-ICML-2021)
-* RNN with particle flow for probabilistic spatio-temporal forecasting [\[paper\]](https://arxiv.org/abs/2106.06064) [\[official code\]](https://github.com/networkslab/rnn_flow)
-* Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2105.04100) [\[official code\]](https://github.com/Z-GCNETs/Z-GCNETs)
-* Variance Reduction in Training Forecasting Models with Subgroup Sampling [\[paper\]](https://arxiv.org/abs/2103.02062)  
-* Explaining Time Series Predictions With Dynamic Masks [\[paper\]](https://arxiv.org/abs/2106.05303) [\[official code\]](https://github.com/JonathanCrabbe/Dynamask)
-* Conformal prediction interval for dynamic time-series [\[paper\]](https://arxiv.org/abs/2010.09107) [\[official code\]](https://github.com/hamrel-cxu/EnbPI)
+* Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2101.12072) [\[official code\]](https://github.com/zalandoresearch/pytorch-ts) [\[slides\]](https://icml.cc/media/icml-2021/Slides/8591.pdf)
+* End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series [\[paper\]](https://proceedings.mlr.press/v139/rangapuram21a.html) [\[official code\]](https://github.com/rshyamsundar/gluonts-hierarchical-ICML-2021) [\[oral\]](https://icml.cc/virtual/2021/poster/10001)
+* RNN with particle flow for probabilistic spatio-temporal forecasting [\[paper\]](https://arxiv.org/abs/2106.06064) [\[official code\]](https://github.com/networkslab/rnn_flow) [\[slides\]](https://icml.cc/media/icml-2021/Slides/9195.pdf)
+* Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2105.04100) [\[official code\]](https://github.com/Z-GCNETs/Z-GCNETs) [\[oral\]](https://icml.cc/virtual/2021/poster/9391)
+* Variance Reduction in Training Forecasting Models with Subgroup Sampling [\[paper\]](https://arxiv.org/abs/2103.02062)
+* Explaining Time Series Predictions With Dynamic Masks [\[paper\]](https://arxiv.org/abs/2106.05303) [\[official code\]](https://github.com/JonathanCrabbe/Dynamask) [\[oral\]](https://icml.cc/virtual/2021/poster/8815)
+* Conformal prediction interval for dynamic time-series [\[paper\]](https://arxiv.org/abs/2010.09107) [\[official code\]](https://github.com/hamrel-cxu/EnbPI) [\[oral\]](https://icml.cc/virtual/2021/poster/10469)
 
 #### Time Series Anomaly Detection
-* Neural Transformation Learning for Deep Anomaly Detection Beyond Images [\[paper\]](https://arxiv.org/abs/2103.16440) [\[official code\]](https://github.com/boschresearch/NeuTraL-AD)
-* Event Outlier Detection in Continuous Time [\[paper\]](https://arxiv.org/abs/1912.09522) [\[official code\]](https://github.com/siqil/CPPOD)
+* Neural Transformation Learning for Deep Anomaly Detection Beyond Images [\[paper\]](https://arxiv.org/abs/2103.16440) [\[official code\]](https://github.com/boschresearch/NeuTraL-AD) [\[slides\]](https://icml.cc/media/icml-2021/Slides/10329.pdf)
+* Event Outlier Detection in Continuous Time [\[paper\]](https://arxiv.org/abs/1912.09522) [\[official code\]](https://github.com/siqil/CPPOD) [\[slides\]](https://icml.cc/media/icml-2021/Slides/8871.pdf)
 
 #### Other Time Series Analysis
-* Voice2Series: Reprogramming Acoustic Models for Time Series Classification [\[paper\]](https://arxiv.org/abs/2106.09296) [\[official code\]](https://github.com/huckiyang/Voice2Series-Reprogramming)
-* Neural Rough Differential Equations for Long Time Series [\[paper\]](https://arxiv.org/abs/2009.08295) [\[official code\]](https://github.com/jambo6/neuralRDEs)
+* Voice2Series: Reprogramming Acoustic Models for Time Series Classification [\[paper\]](https://arxiv.org/abs/2106.09296) [\[official code\]](https://github.com/huckiyang/Voice2Series-Reprogramming) [\[slides\]](https://icml.cc/media/icml-2021/Slides/9059.pdf)
+* Neural Rough Differential Equations for Long Time Series [\[paper\]](https://arxiv.org/abs/2009.08295) [\[official code\]](https://github.com/jambo6/neuralRDEs) [\[oral\]](https://icml.cc/virtual/2021/poster/10039)
 * Neural Spatio-Temporal Point Processes [\[paper\]](https://arxiv.org/abs/2011.04583) [\[official code\]](https://github.com/facebookresearch/neural_stpp)
 * Learning Neural Event Functions for Ordinary Differential Equations [\[paper\]](https://arxiv.org/abs/2011.03902) [\[official code\]](https://github.com/rtqichen/torchdiffeq)
-* Approximation Theory of Convolutional Architectures for Time Series Modelling [\[paper\]](https://arxiv.org/abs/2107.09355) 
-* Whittle Networks: A Deep Likelihood Model for Time Series [\[paper\]](https://proceedings.mlr.press/v139/yu21c.html) [\[official code\]](https://github.com/ml-research/WhittleNetworks)
-* Necessary and sufficient conditions for causal feature selection in time series with latent common causes [\[paper\]](http://proceedings.mlr.press/v139/mastakouri21a.html)  
+* Approximation Theory of Convolutional Architectures for Time Series Modelling [\[paper\]](https://arxiv.org/abs/2107.09355) [\[oral\]](https://icml.cc/virtual/2021/poster/10513)
+* Whittle Networks: A Deep Likelihood Model for Time Series [\[paper\]](https://proceedings.mlr.press/v139/yu21c.html) [\[official code\]](https://github.com/ml-research/WhittleNetworks) [\[slides\]](https://icml.cc/media/icml-2021/Slides/10295.pdf)
+* Necessary and sufficient conditions for causal feature selection in time series with latent common causes [\[paper\]](http://proceedings.mlr.press/v139/mastakouri21a.html) [\[oral\]](https://icml.cc/virtual/2021/poster/8441)
 
 
 ### ICLR 2021
 #### Time Series Forecasting
-* Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows [\[paper\]](https://openreview.net/forum?id=WiGQBFuVRv) [\[official code\]](https://github.com/zalandoresearch/pytorch-ts) 
-* Discrete Graph Structure Learning for Forecasting Multiple Time Series [\[paper\]](https://openreview.net/forum?id=WEHSlH5mOk) [\[official code\]](https://github.com/chaoshangcs/GTS)
+* Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows [\[paper\]](https://openreview.net/forum?id=WiGQBFuVRv) [\[official code\]](https://github.com/zalandoresearch/pytorch-ts) [\[slides\]](https://iclr.cc/media/iclr-2021/Slides/3117.pdf)
+* Discrete Graph Structure Learning for Forecasting Multiple Time Series [\[paper\]](https://openreview.net/forum?id=WEHSlH5mOk) [\[official code\]](https://github.com/chaoshangcs/GTS) [\[oral\]](https://iclr.cc/virtual/2021/poster/2800)
 
 #### Other Time Series Analysis
-* Clairvoyance: A Pipeline Toolkit for Medical Time Series [\[paper\]](https://openreview.net/forum?id=xnC8YwKUE3k) [\[official code\]](https://github.com/vanderschaarlab/clairvoyance)
-* Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding [\[paper\]](https://openreview.net/forum?id=8qDwejCuCN) [\[official code\]](https://github.com/sanatonek/TNC_representation_learning)
-* Multi-Time Attention Networks for Irregularly Sampled Time Series [\[paper\]](https://openreview.net/forum?id=4c0J6lwQ4_) [\[official code\]](https://github.com/reml-lab/mTAN)
-* Generative Time-series Modeling with Fourier Flows [\[paper\]](https://openreview.net/forum?id=PpshD0AXfA) [\[official code\]](https://github.com/ahmedmalaa/Fourier-flows)
-* Differentiable Segmentation of Sequences [\[paper\]](https://openreview.net/forum?id=4T489T4yav) [\[slides\]](https://iclr.cc/media/Slides/iclr/2021/virtual(05-08-00)-05-08-00UTC-2993-differentiable_.pdf)  [\[official code\]](https://github.com/diozaka/diffseg) 
-* Neural ODE Processes [\[paper\]](https://openreview.net/forum?id=27acGyyI1BY) [\[official code\]](https://github.com/crisbodnar/ndp) 
-* Learning Continuous-Time Dynamics by Stochastic Differential Networks [\[paper\]](https://openreview.net/forum?id=U850oxFSKmN) [\[official code\]]() 
+* Clairvoyance: A Pipeline Toolkit for Medical Time Series [\[paper\]](https://openreview.net/forum?id=xnC8YwKUE3k) [\[official code\]](https://github.com/vanderschaarlab/clairvoyance) [\[oral\]](https://iclr.cc/virtual/2021/poster/2791)
+* Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding [\[paper\]](https://openreview.net/forum?id=8qDwejCuCN) [\[official code\]](https://github.com/sanatonek/TNC_representation_learning) [\[oral\]](https://iclr.cc/virtual/2021/poster/2897)
+* Multi-Time Attention Networks for Irregularly Sampled Time Series [\[paper\]](https://openreview.net/forum?id=4c0J6lwQ4_) [\[official code\]](https://github.com/reml-lab/mTAN) [\[slides\]](https://iclr.cc/media/iclr-2021/Slides/2703.pdf)
+* Generative Time-series Modeling with Fourier Flows [\[paper\]](https://openreview.net/forum?id=PpshD0AXfA) [\[official code\]](https://github.com/ahmedmalaa/Fourier-flows) [\[oral\]](https://iclr.cc/virtual/2021/poster/2750)
+* Differentiable Segmentation of Sequences [\[paper\]](https://openreview.net/forum?id=4T489T4yav) [\[slides\]](https://iclr.cc/media/iclr-2021/Slides/2993.pdf)  [\[official code\]](https://github.com/diozaka/diffseg)
+* Neural ODE Processes [\[paper\]](https://openreview.net/forum?id=27acGyyI1BY) [\[official code\]](https://github.com/crisbodnar/ndp) [\[slides\]](https://iclr.cc/media/iclr-2021/Slides/2925.pdf)
+* Learning Continuous-Time Dynamics by Stochastic Differential Networks [\[paper\]](https://openreview.net/forum?id=U850oxFSKmN) [\[official code\]]()
 
  
 ### KDD 2021
