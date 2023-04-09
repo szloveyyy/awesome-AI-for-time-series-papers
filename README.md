@@ -302,28 +302,28 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 
 ### AAAI 2022
 #### Time Series Forecasting
-* CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai7403) 
-* Reinforcement Learning based Dynamic Model Combination for Time Series Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai8424)
-* DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [\[paper\]](https://arxiv.org/abs/2201.04038) [official code\]](https://github.com/microsoft/qlib/tree/main/examples/benchmarks_dynamic/DDG-DA)
-* PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model [\[paper\]](https://aaai-2022.virtualchair.net/poster_aisi7128)
+* CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aaai7403)
+* Reinforcement Learning based Dynamic Model Combination for Time Series Forecasting [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aaai8424)
+* DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation [\[paper and oral\]]([https://arxiv.org/abs/2201.04038](https://aaai-2022.virtualchair.net/poster_aaai10902)) [official code\]](https://github.com/microsoft/qlib/tree/main/examples/benchmarks_dynamic/DDG-DA)
+* PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aisi7128)
 * LIMREF: Local Interpretable Model Agnostic Rule-Based Explanations for Forecasting, with an Application to
-Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/poster_aisi8802)  
-* Learning and Dynamical Models for Sub-Seasonal Climate Forecasting: Comparison and Collaboration [\[paper\]](https://arxiv.org/abs/2110.05196) [\[official code\]](https://github.com/Sijie-umn/SSF-MIP)
-* CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aisi6475)
-* Conditional Local Convolution for Spatio-Temporal Meteorological Forecasting [\[paper\]](https://arxiv.org/abs/2101.01000) [\[official code\]](https://github.com/bird-tao/clcrn)
-* Graph Neural Controlled Differential Equations for Traffic Forecasting [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai6502) [\[official code\]](https://github.com/jeongwhanchoi/STG-NCDE)
-* STDEN: Towards Physics-Guided Neural Networks for Traffic Flow Prediction [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai211) [\[official code\]](https://github.com/Echo-Ji/STDEN)
+Electricity Smart Meter Data [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aisi8802)
+* Learning and Dynamical Models for Sub-Seasonal Climate Forecasting: Comparison and Collaboration [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aaai3902) [\[official code\]](https://github.com/Sijie-umn/SSF-MIP)
+* CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aisi6475)
+* Conditional Local Convolution for Spatio-Temporal Meteorological Forecasting [\[paper and oral\]]([https://arxiv.org/abs/2101.01000](https://aaai-2022.virtualchair.net/poster_aaai1716)) [\[official code\]](https://github.com/bird-tao/clcrn)
+* Graph Neural Controlled Differential Equations for Traffic Forecasting [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aaai6502) [\[official code\]](https://github.com/jeongwhanchoi/STG-NCDE)
+* STDEN: Towards Physics-Guided Neural Networks for Traffic Flow Prediction [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aaai211) [\[official code\]](https://github.com/Echo-Ji/STDEN)
 
 #### Time Series Anomaly Detection
-* Towards a Rigorous Evaluation of Time-Series Anomaly Detection [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai2239)  
+* Towards a Rigorous Evaluation of Time-Series Anomaly Detection [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aaai2239)   
 * AnomalyKiTS-Anomaly Detection Toolkit for Time Series [\[Demo paper\]](https://aaai-2022.virtualchair.net/poster_dm318) 
 
 #### Other Time Series Analysis
-* TS2Vec: Towards Universal Representation of Time Series [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai8809) [\[official code\]](https://github.com/yuezhihan/ts2vec)
-* I-SEA: Importance Sampling and Expected Alignment-Based Deep Distance Metric Learning for Time Series Analysis and Embedding [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai10930)  
-* Training Robust Deep Models for Time-Series Domain: Novel Algorithms and Theoretical Analysis [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai4151)  
-* Conditional Loss and Deep Euler Scheme for Time Series Generation [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai12878)  
-* Clustering Interval-Censored Time-Series for Disease Phenotyping [\[paper\]](https://aaai-2022.virtualchair.net/poster_aaai12517)  
+* TS2Vec: Towards Universal Representation of Time Series [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aaai8809) [\[official code\]](https://github.com/yuezhihan/ts2vec) [\[BiliBili\]](https://www.bilibili.com/video/BV1xU4y1Y7nr/)
+* I-SEA: Importance Sampling and Expected Alignment-Based Deep Distance Metric Learning for Time Series Analysis and Embedding [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aaai10930)  
+* Training Robust Deep Models for Time-Series Domain: Novel Algorithms and Theoretical Analysis [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aaai4151)  
+* Conditional Loss and Deep Euler Scheme for Time Series Generation [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aaai12878)  
+* Clustering Interval-Censored Time-Series for Disease Phenotyping [\[paper and oral\]](https://aaai-2022.virtualchair.net/poster_aaai12517)  
 
 
 ### IJCAI 2022
