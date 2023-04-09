@@ -178,40 +178,40 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 ## AI4TS Papers 2022
 ### NeurIPS 2022
 #### Time Series Forecasting
-* FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2205.08897) [\[official code\]](https://github.com/DAMO-DI-ML/NeurIPS2022-FiLM)
-* SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction [\[paper\]](https://arxiv.org/abs/2106.09305) [\[official code\]](https://github.com/cure-lab/SCINet)
+* FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2205.08897) [\[official code\]](https://github.com/DAMO-DI-ML/NeurIPS2022-FiLM) [\[slides\]](https://nips.cc/media/neurips-2022/Slides/55013.pdf)
+* SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction [\[paper\]](https://arxiv.org/abs/2106.09305) [\[official code\]](https://github.com/cure-lab/SCINet) [\[oral\]](https://nips.cc/virtual/2022/poster/53511)
 
-* Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2205.14415)
-* Earthformer: Exploring Space-Time Transformers for Earth System Forecasting [\[paper\]](https://arxiv.org/abs/2207.05833)
-* Generative Time Series Forecasting with Diffusion, Denoise and Disentanglement
-* Learning Latent Seasonal-Trend Representations for Time Series Forecasting
-* WaveBound: Dynamically Bounding Error for Stable Time Series Forecasting
+* Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2205.14415) [\[oral\]](https://nips.cc/virtual/2022/poster/55235)
+* Earthformer: Exploring Space-Time Transformers for Earth System Forecasting [\[paper\]](https://arxiv.org/abs/2207.05833) [\[oral\]](https://nips.cc/virtual/2022/poster/54523)
+* Generative Time Series Forecasting with Diffusion, Denoise and Disentanglement [\[oral\]](https://nips.cc/virtual/2022/poster/53118) [\[slides\]](https://nips.cc/media/neurips-2022/Slides/53118.pdf)
+* Learning Latent Seasonal-Trend Representations for Time Series Forecasting [\[oral\]](https://nips.cc/virtual/2022/poster/55179)
+* WaveBound: Dynamically Bounding Error for Stable Time Series Forecasting [\[oral\]](https://nips.cc/virtual/2022/poster/54133) [\[slides\]](https://nips.cc/media/neurips-2022/Slides/54133_KRkCbJt.pdf)
  
-* Time Dimension Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting
+* Time-Conditioned Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting [\[oral\]](https://nips.cc/virtual/2022/poster/53664)
  
-* Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks
+* Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks [\[oral\]](https://nips.cc/virtual/2022/poster/55345)
  
-* C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting
+* C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting [\[oral\]](https://nips.cc/virtual/2022/poster/53883) [\[slides\]](https://nips.cc/media/neurips-2022/Slides/53883.pdf)
  
-* Meta-Learning Dynamics Forecasting Using Task Inference [\[paper\]](https://arxiv.org/abs/2102.10271)
+* Meta-Learning Dynamics Forecasting Using Task Inference [\[paper\]](https://arxiv.org/abs/2102.10271) [\[oral\]](https://nips.cc/virtual/2022/poster/53910)
  
-* Conformal Prediction with Temporal Quantile Adjustments
+* Conformal Prediction with Temporal Quantile Adjustments [\[oral\]](https://nips.cc/virtual/2022/poster/53845)
  
 
 
 
 #### Other Time Series Analysis
-* Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency, [\[paper\]](https://arxiv.org/abs/2206.08496) [\[official code\]](https://github.com/mims-harvard/TFC-pretraining)
+* Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency, [\[paper\]](https://arxiv.org/abs/2206.08496) [\[official code\]](https://github.com/mims-harvard/TFC-pretraining) [\[oral\]](https://nips.cc/virtual/2022/poster/52895)
 * Causal Disentanglement for Time Series
-* BILCO: An Efficient Algorithm for Joint Alignment of Time Series
-* Dynamic Sparse Network for Time Series Classification: Learning What to “See”
-* AutoST: Towards the Universal Modeling of Spatio-temporal Sequences
+* BILCO: An Efficient Algorithm for Joint Alignment of Time Series [\[oral\]](https://nips.cc/virtual/2022/poster/54683)
+* Dynamic Sparse Network for Time Series Classification: Learning What to “See” [\[oral\]](https://nips.cc/virtual/2022/poster/54534)
+* AutoST: Towards the Universal Modeling of Spatio-temporal Sequences [\[oral\]](https://nips.cc/virtual/2022/poster/53236)
  
-* GT-GAN: General Purpose Time Series Synthesis with Generative Adversarial Networks
+* GT-GAN: General Purpose Time Series Synthesis with Generative Adversarial Networks [\[oral\]](https://nips.cc/virtual/2022/poster/54370)
  
-* Efficient learning of nonlinear prediction models with time-series privileged information
+* Efficient learning of nonlinear prediction models with time-series privileged information [\[oral\]](https://nips.cc/virtual/2022/poster/55317)
  
-* Practical Adversarial Attacks on Spatiotemporal Traffic Forecasting Models
+* Practical Adversarial Attacks on Spatiotemporal Traffic Forecasting Models [\[oral\]](https://nips.cc/virtual/2022/poster/55401)
  
 
 
@@ -226,7 +226,7 @@ For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML
 * DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting [\[paper\]](https://proceedings.mlr.press/v162/lan22a.html) [\[official code\]](https://github.com/SYLan2019/DSTAGNN)
 
 #### Time Series Anomaly Detection
-* Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection [\[paper\]](https://proceedings.mlr.press/v162/chen22x.html)
+* Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection [\[paper\]](https://proceedings.mlr.press/v162/chen22x.html) [\[oral\]](https://icml.cc/virtual/2022/spotlight/18110)
 
 #### Other Time Series Analysis
 * Adaptive Conformal Predictions for Time Series [\[paper\]](https://arxiv.org/abs/2202.07282) [\[official code\]](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)
