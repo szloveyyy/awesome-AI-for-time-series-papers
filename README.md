@@ -495,6 +495,7 @@ Electricity Smart Meter Data [\[paper and oral\]](https://aaai-2022.virtualchair
 
 
 ### AAAI 2021
+* https://slideslive.com/aaai-21
 #### Time Series Forecasting 
 * Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting [\[paper\]](https://arxiv.org/abs/2012.07436) [\[official code\]](https://github.com/zhouhaoyi/Informer2020) 
 * Deep Switching Auto-Regressive Factorization: Application to Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2009.05135) [\[official code\]](https://github.com/ostadabbas/DSARF)
